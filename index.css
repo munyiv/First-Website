@@ -1,0 +1,110 @@
+ .column{  
+     float: left; 
+     width: 30%;
+     padding: 10px; 
+     padding: 20px;
+     margin: 0;
+     text-decoration: grey;
+    
+ } 
+  h2{ 
+       text-align: center;  
+      padding-left: 10px; 
+      color: purple; 
+     font-style: italic;  
+  } 
+
+ .row:after{
+     content: "";
+     display: table;
+     clear: both;
+ }
+html{
+    background-color:white;
+}
+.about{
+  text-align: start; 
+    font-style: italic;
+    font-size: 300%;
+    text-decoration-color: grey;
+}
+p{
+    float: middle;
+    padding-left: 10px;
+    
+}
+#course{
+    text-align: center;
+    padding-right: 50px;
+    margin: 50px;
+
+}
+h1{
+    padding-left: 30px;
+    text-align: center;
+    color:purple;
+    font-style: oblique;
+    font-size: 500%;
+}
+.style{
+    text-align: center;
+    color:purple;
+    font-style: italic;
+    font-size: 45px;
+
+}
+.Quote{
+    text-align: center;
+    font-style: italic;
+    font-size: 60px;
+    
+}
+.python{
+    font-style: italic;
+    color: purple;
+}
+.js{
+    font-style: italic;
+    color: purple;
+
+}
+.startup{
+    font-style: italic;
+    color: purple;
+}
+.kotlin{
+    font-style: italic;
+    color: purple;
+}
+.ux{
+    font-style: italic;
+    color: purple;
+}
+.PD{
+    font-style:italic ;
+    color: purple;
+}
+.NYJ{
+    font-style: italic;
+    color: purple;
+}
+.iot{
+    font-style:italic ;
+    color: purple;
+}
+.Industrial{
+    font-style: italic;
+    color: purple;
+}
+.Navigation{
+     text-decoration:none ; 
+    float: right;
+
+}
+hr{
+    color:purple ;
+}
+.Aboutt{
+    text-align: center;
+    
+}
